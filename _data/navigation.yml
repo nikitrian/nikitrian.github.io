@@ -6,7 +6,7 @@
 
 main:
   - title: "<span style='color: #009999;'>Publications</span>"
-    URL: /publications/ 
+    url: /publications/ 
     
 
   #- title: "Talks"
