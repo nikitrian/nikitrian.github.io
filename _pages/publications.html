@@ -5,32 +5,18 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
+## Journal Articles
+___
+These works provide an overview of my research.
 
-{% include base_path %}
+* **Triantafyllou, N.**, & Papathanasiou, M. M. (2024). <a href="https://www.sciencedirect.com/science/article/pii/S0098135424001431" target="_blank" rel="noopener"> "Deep learning enhanced mixed integer optimization: Learning to reduce model dimensionality." </a> <i>Computers & Chemical Engineering. </i> 187:108725.
 
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
+* **Triantafyllou, N.**, Lyons, B., Bernardi, A., Chachuat, B., Kontoravdi, C., & Papathanasiou, M. M. (2024). <a href="https://www.sciencedirect.com/science/article/pii/S0098135424002254" target="_blank" rel="noopener"> "Comparative assessment of simulation-based and surrogate-based approaches to flowsheet optimization using dimensionality reduction." </a> <i>Computers & Chemical Engineering. </i> 108807.
+
+
+## Book Chapter
+
+## Conference Papers
 
 
 
