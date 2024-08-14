@@ -6,7 +6,7 @@
 
 main:
   - title: "<span style='color: #009999;'>Publications</span>"
-    url: /publications/
+    url: /'https://scholar.google.co.uk/citations?user=uFWX6UkAAAAJ&hl=el&oi=sra'/
 
   #- title: "Talks"
    # url: /talks/    
