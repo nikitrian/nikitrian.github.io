@@ -26,6 +26,7 @@ My research is supported by the Marit Mohn PhD Scholarship.
         <li>• Hybrid Modeling</li>
         <li>• Convolutional Neural Networks</li>
         <li>• Bayesian Optimization</li>
+        <li>• Model Predictive Control</li>
       </ul>
     </td>
     <td style="vertical-align: top; border: 1px solid white;">
@@ -34,7 +35,6 @@ My research is supported by the Marit Mohn PhD Scholarship.
         <li>• Mixed Integer Optimization</li>
         <li>• Graph Neural Networks</li>
         <li>• Gaussian Processes</li>
-        <li>• Model Predictive Control</li>
         <li>• Reinforcement Learning</li>
       </ul>
     </td>
