@@ -22,7 +22,7 @@ repository               : "nikitrian/nikitrian.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Niki Triantafyllou"
+  name             : "<span style='color: #009999;'>Niki Triantafyllou</span>"
   pronouns         : # example: "she/her"  
   bio              : "PhD Student"
   location         : "London, UK"
