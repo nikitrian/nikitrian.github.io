@@ -5,8 +5,8 @@
 # prevent it from being included in the site.
 
 main:
-  - title: "<span style='color: #009999;'>Publications</span>"
-    URL: https://scholar.google.co.uk/citations?user=uFWX6UkAAAAJ&hl=el&oi=sra
+  - title: "<span style='color: #009999;'>[Publications]</span>"
+    URL: (https://scholar.google.co.uk/citations?user=uFWX6UkAAAAJ&hl=el&oi=sra)
     
 
   #- title: "Talks"
