@@ -22,13 +22,13 @@ repository               : "nikitrian/nikitrian.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Niki Triantafyllou"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "PhD Student at Imperial"
+  location         : "London, UK"
+  employer         : #"Red Brick University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "nickytrian@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
