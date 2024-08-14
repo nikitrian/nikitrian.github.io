@@ -15,3 +15,29 @@ I work with [Dr. Maria Papathanasiou](https://www.papathanlab.com/){: style="col
 My research lies at the intersection of **machine learning**, **optimization**, and **control**, with a specific focus on developing advanced algorithms to enhance efficiency in complex supply chain systems such as personalized healthcare and energy.
 
 My research is supported by the Marit Mohn PhD Scholarship.
+
+
+<span style="color: #009999;">Research Interests</span>
+
+<table>
+  <tr>
+    <td style="padding-right: 40px; vertical-align: top;">
+      <ul style="list-style-type: none; padding-left: 0;">
+        <li> Learning for Optimization</li>
+        <li> Hybrid Modeling</li>
+        <li> Convolutional Neural Networks</li>
+        <li> Bayesian Optimization</li>
+      </ul>
+    </td>
+    <td style="vertical-align: top;">
+      <ul style="list-style-type: none; padding-left: 0;">
+        <li> Physics-Informed Machine Learning</li>
+        <li> Mixed Integer Optimization</li>
+        <li> Graph Neural Networks</li>
+        <li> Gaussian Processes</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+
