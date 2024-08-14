@@ -10,7 +10,7 @@ redirect_from:
 
 <span style="font-size: 1.25em; font-weight: 500;">I'm a PhD candidate at Imperial College London</span> 
 
-I work with [Dr. Maria Papathanasiou](https://www.papathanlab.com/){: style="color: #009999;"} in the [Sargent Centre for Process Systems Engineering](https://www.imperial.ac.uk/process-systems-engineering/){: style="color: #009999;"}.
+I work with [Dr. Maria Papathanasiou](https://www.papathanlab.com/){: style="color: #009999;"} in the [Sargent Center for Process Systems Engineering](https://www.imperial.ac.uk/process-systems-engineering/){: style="color: #009999;"}.
 
 My research lies at the intersection of **machine learning**, **optimization**, and **control**, with a specific focus on developing advanced algorithms to enhance efficiency in complex supply chain systems such as personalized healthcare and energy.
 
