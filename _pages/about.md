@@ -1,7 +1,7 @@
 ---
 permalink: /
 #title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
-title: "<span style='color: #009999;'>Hello, I'm Niki Triantafyllou</span>"
+title: "<span style='color: #009999; font-size: 2.5em;'>Hello, I'm Niki Triantafyllou</span>"
 author_profile: true
 redirect_from: 
   - /about/
