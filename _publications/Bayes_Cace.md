@@ -2,7 +2,7 @@
 title: "Reduced-space Bayesian optimization"
 collection: publications
 category: manuscripts
-permalink: 'https://www.sciencedirect.com/science/article/pii/S0098135424002254)'
+permalink: 'https://www.sciencedirect.com/science/article/pii/S0098135424002254'
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2024
 venue: 'Computers & Chemical Engineering'
