@@ -22,9 +22,9 @@ repository               : "nikitrian/nikitrian.github.io"
 author:
   # Biographic information
   avatar           : "profile2.jpg"
-  name             : "Niki Triantafyllou"
+  name             : #"Niki Triantafyllou"
   pronouns         : # example: "she/her"  
-  bio              : "<span style='color: #009999;'>PhD Candidate</span>"
+  bio              : #"<span style='color: #009999;'>PhD Candidate</span>"
   location         : "London, UK"
   employer         : "Imperial College London"
   uri              : # URL
