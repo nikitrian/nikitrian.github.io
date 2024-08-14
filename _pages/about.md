@@ -16,9 +16,9 @@ My research lies at the intersection of **machine learning**, **optimization**, 
 
 My research is supported by the Marit Mohn PhD Scholarship.
 
-## <span style="color: #009999;">Research Interests</span>
+## <span style="font-size: 1.25em;">Research Interests</span>
 
-<table style="border: 1px solid white; border-collapse: collapse; width: 100%;">
+<table style="border: 1px solid white; border-collapse: collapse; width: 100%; font-size: 1.25em;">
   <tr>
     <td style="padding-right: 40px; vertical-align: top; border: 1px solid white;">
       <ul style="list-style-type: none; padding-left: 0;">
@@ -34,10 +34,13 @@ My research is supported by the Marit Mohn PhD Scholarship.
         <li style="color: #009999;">• Mixed Integer Optimization</li>
         <li style="color: #009999;">• Graph Neural Networks</li>
         <li style="color: #009999;">• Gaussian Processes</li>
+        <li style="color: #009999;">• Model Predictive Control</li>
+        <li style="color: #009999;">• Reinforcement Learning</li>
       </ul>
     </td>
   </tr>
 </table>
+
 
 
 
