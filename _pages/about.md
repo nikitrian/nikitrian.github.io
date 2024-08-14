@@ -16,30 +16,31 @@ My research lies at the intersection of **machine learning**, **optimization**, 
 
 My research is supported by the Marit Mohn PhD Scholarship.
 
-## <span style="font-size: 1.25em;">Research Interests</span>
+## <span style="color: #009999; font-size: 1.25em;">Research Interests</span>
 
 <table style="border: 1px solid white; border-collapse: collapse; width: 100%; font-size: 1em;">
   <tr>
     <td style="padding-right: 40px; vertical-align: top; border: 1px solid white;">
       <ul style="list-style-type: none; padding-left: 0;">
-        <li style="color: #009999;">• Learning for Optimization</li>
-        <li style="color: #009999;">• Hybrid Modeling</li>
-        <li style="color: #009999;">• Convolutional Neural Networks</li>
-        <li style="color: #009999;">• Bayesian Optimization</li>
-        <li style="color: #009999;">• Model Predictive Control</li>
+        <li>• Learning for Optimization</li>
+        <li>• Hybrid Modeling</li>
+        <li>• Convolutional Neural Networks</li>
+        <li>• Bayesian Optimization</li>
       </ul>
     </td>
     <td style="vertical-align: top; border: 1px solid white;">
       <ul style="list-style-type: none; padding-left: 0;">
-        <li style="color: #009999;">• Physics-Informed Machine Learning</li>
-        <li style="color: #009999;">• Mixed Integer Optimization</li>
-        <li style="color: #009999;">• Graph Neural Networks</li>
-        <li style="color: #009999;">• Gaussian Processes</li>
-        <li style="color: #009999;">• Reinforcement Learning</li>
+        <li>• Physics-Informed Machine Learning</li>
+        <li>• Mixed Integer Optimization</li>
+        <li>• Graph Neural Networks</li>
+        <li>• Gaussian Processes</li>
+        <li>• Model Predictive Control</li>
+        <li>• Reinforcement Learning</li>
       </ul>
     </td>
   </tr>
 </table>
+
 
 
 
