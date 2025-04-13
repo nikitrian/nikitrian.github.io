@@ -24,8 +24,9 @@ Motivated by real-world challenges in next-generation personalized cell and gene
 My research is supported by the [Marit Mohn PhD Scholarship](https://www.imperial.ac.uk/news/165734/alumna-donation-will-provide-life-changing-scholarships/){: style="color: #009999;"}.
 
 <p style="margin-top: 1em;">
-  🏆 My MSc thesis on bilevel decomposition of large-scale mixed integer optimization models for personalized medicine supply chains earned the <strong><a href="https://escape32.inp-toulouse.fr/en/index.html" style="color: #009999;">Best Poster Award</a></strong> at <em>ESCAPE32</em> and the <strong><a href="https://www.imperial.ac.uk/student-records-and-data/for-current-students/graduate-prizes/postgraduate-prizes/" style="color: #009999;">Best Research Project Prize</a></strong> in the MSc in Advanced Chemical Engineering at Imperial College London.
+  🏆 My MSc thesis on bilevel decomposition of large-scale mixed integer optimization models for personalized medicine supply chains earned the <a href="https://escape32.inp-toulouse.fr/en/index.html" style="color: #009999;">Best Poster Award</a> at <em>ESCAPE32</em> and the <a href="https://www.imperial.ac.uk/student-records-and-data/for-current-students/graduate-prizes/postgraduate-prizes/" style="color: #009999;">Best Research Project Prize</a> in the MSc in Advanced Chemical Engineering at Imperial College London.
 </p>
+
 
 I was an **Applied Scientist Intern** at <a href="https://www.amazon.science/" style="color: #009999;">Amazon</a> from September 2024 to March 2025.
 
