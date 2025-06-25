@@ -12,7 +12,7 @@ redirect_from:
 
 I work with [Dr. Maria Papathanasiou](https://www.papathanlab.com/){: style="color: #009999;"} in the [Sargent Center for Process Systems Engineering](https://www.imperial.ac.uk/process-systems-engineering/){: style="color: #009999;"}.
 
-My research lies at the intersection of **machine learning**, **optimization**, and **control**, with a focus on building optimization-aware learning systems that are **scalable** and **interpretable**. I develop hybrid algorithms that integrate learning and decision-making, including:
+My research lies at the intersection of **learning**, **optimization**, and **control**, with a focus on building optimization-aware learning systems that are **scalable** and **interpretable**. I develop hybrid algorithms that integrate learning and decision-making, including:
 <ul>
   <li>Enhancing combinatorial optimization with neural architectures and energy-based learning</li>
   <li>Embedding differentiable optimization layers into neural networks</li>
