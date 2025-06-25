@@ -40,7 +40,7 @@ I was an **Applied Scientist Intern** at <a href="https://www.amazon.science/" s
     <td style="padding-right: 40px; vertical-align: top; border: 1px solid white;">
       <ul style="list-style-type: none; padding-left: 0;">
         <li>• Neural Combinatorial Optimization</li>
-        <li>• Hybrid Modeling</li>
+        <li>• Decision-focused Learning</li>
         <li>• Bayesian Optimization</li>
         <li>• Model Predictive Control</li>
       </ul>
