@@ -40,4 +40,7 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
-.page__footer { display: none; }
+/* Kill the entire Minimal Mistakes footer */
+footer.page__footer { display: none !important; }
+.page__footer { display: none !important; }
+
